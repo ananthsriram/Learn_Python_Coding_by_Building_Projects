@@ -69,3 +69,87 @@
 - Program : Days in month
 - Project : Calculator
 
+
+### [Day 11 - Beginner - Blackjack Capstone Project](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_11_Beginner_Blackjack_Capstone_Project)
+- Project : Blackjack Capstone Project (using playing cards)
+
+### [Day 12 - Beginner - Scope and Number Guessing Game](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_12_Beginner_Scope_and_Number_Guessing_Game)
+- Scope of Variables (local, global, block)
+- Project : Number Guessing Game
+
+### [Day 13 - Beginner - Debugging: How to Find and Fix Errors in your Code](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_13_Beginner_Debugging_How_to_Find_and_Fix_Errors_in_your_Code)
+- Describe Problem
+- Reproduce the Bug
+- Play Computer
+- Fix the Errors
+- Print is Your Friend
+- Use a Debugger
+- Program : Debugging odd or even program
+
+### [Day 14 - Beginner - Higher Lower Game Project](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_14_Beginner_Higher_Lower_Game_Project)
+- Project : Higher Lower Game (User needs to Guess which celebrity has more number of Instagram followers)
+
+### [Day 15 - Intermediate - Coffee Machine Project](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_15_Intermediate_Coffee_Machine_Project)
+- Project : Coffee Machine (For a given option of Coffee, program should suggest if it can serve the coffee or not based on resources available and amount received)
+ 
+### [Day 16 - Intermediate - Object Oriented Programming](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_16_Intermediate_Object_Oriented_Programming)
+- Program : Using PrettyTable module
+- Project : Coffee Machine (using Object Oriented Programming)
+
+### [Day 17 - Intermediate - The Quiz Project and Benefits of OOP](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_17_Intermediate_The_Quiz_Project_And_Benefits_of_OOP)
+- Project : Quiz (Get random questions from predefined set and check the answer provided by user is correct or wrong and give a score)
+
+### [Day 18 - Intermediate - Turtle and The Graphical User Interface](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_18_Intermediate_Turtle_and_The_Graphical_User_Interface)
+- Program : Draw a square  
+- Program : Draw a Dashed line  
+- Program : Draw Different Shapes  
+- Program : Draw Random Walk
+- Program : Generate Random RGB Colors
+- Program : Draw a Spirograph
+- Program : Extract RGB Values from Image
+- Project : Drawing the DOTS 
+
+### [Day 19 - Intermediate - Instances State and Higher Order](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_19_Intermediate_Instances_State_and_Higher_Order)
+- Program : Make an Etch a Sketch App
+- Program : Turtle Coordinate System
+- Project : Turtle Race 
+ 
+### [Day 20 - Intermediate - Build Snake Game (Part -1) - Animation and Coordinates](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_20_Intermediate_Build_Snake_Game_Part_1_Animation_and_Coordinates)
+- Program : Creating a Snake Body
+- Program : Animating Snake Segments
+- Program : Create Snake Class
+- Program : Control the Snake with a Key Press
+
+### [Day 21 - Intermediate - Build Snake Game (Part -2) - Inheritance and List Slicing](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_21_Intermediate_Build_Snake_Game_Part_2_Inheritance_and_List_Slicing)
+- Class Inheritance
+- Program : Detect Collission with Food
+- Program : Create Scoreboard and Keep Score
+- Program : Detect Collissions with Wall
+- Program : Detect Collissions with your own tail
+- Program : Slice Lists and Tuples in Python
+
+### [Day 22 - Intermediate - Build Pong - The Famous Arcade Game](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_22_Intermediate_Build_Pong_The_Famous_Arcade_Game)
+- Program : Set up Main Screen
+- Program : Create a Paddle that responses to Key Presses
+- Program : Write Paddle Class and Create Second Paddle
+- Program : Write the Ball Class and Make the Ball Move
+- Program : Add the Ball Bouncing Logic
+- Program : Detect Collisions with Paddle
+- Program : Detect when Ball goes out of bounds
+- Program : Score Keeping and Changing the Ball Speed
+
+### [Day 23 - Intermediate - The Turtle Crossing Capstone Project](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_23_Intermediate_The_Turtle_Crossing_Capstone_Project)
+- Project : Turtle Crossing Capstone
+
+### [Day 24 - Intermediate - Files, Directories and Paths](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_24_Intermediate_Files_Directories_and_Paths)
+- Program : Add high score to the Snake Game
+- Program : Read and Write high score to a File in the Snake Game
+- Program : Mail Merge (Using a template, read recipients list from text file, and generate personalised invite for everyone)
+
+### [Day 25 - Intermediate - Working With CSV Data and Pandas Library](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_25_Intermediate_Working_With_CSV_Data_And_Pandas_Library)
+- Program : Reading CSV data in Python
+- Program : Reading CSV data using Pandas
+- Program : Great Squirrel Census Data Analysis (Find number of squirrels in Central Park grouped by Furr Color)
+- Project : US States Game (Input US state name and program should locate it in map, if it is a valid state)
+
+

@@ -152,4 +152,22 @@
 - Program : Great Squirrel Census Data Analysis (Find number of squirrels in Central Park grouped by Furr Color)
 - Project : US States Game (Input US state name and program should locate it in map, if it is a valid state)
 
+### [Day 26 - Intermediate - List Comprehension and The NATO Alphabet](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_26_Intermediate_List_Comprehension_and_The_NATO_Alphabet)
+- List Comprehension
+- Dictionary Comprehension
+- Iterate over Pandas Dataframe
+- Program : NATO Alphabet Project
+
+### [Day 27 - Intermediate - Tkinter *args, **kwargs - Creating GUI Programs](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_27_Intermediate_Tkinter_args_kwargs_and_Creating_GUI_Programs)
+- Many Positional arguments - *args
+- Many KeyWord arguments - **kwargs
+- Widgets in Tkinter (Label, Button, Entry, Text, Spinbox, Scale, Checkbutton, Radiobutton, Listbox)
+- Project : Miles to Kilometers Converter
+
+### [Day 28 - Intermediate - Tkinter, Dynamic Typing and The Pomodoro GUI Application](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_28_Intermediate_Tkinter_Dynamic_Typing_and_The_Pomodoro_GUI_Application)
+- Project : The Pomodoro GUI Application
+
+### [Day 29 - Intermediate - Building a Password Manager GUI App with Tkinter](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_29_Intermediate_Building_a_Password_Manager_GUI_App_with_Tkinter)
+- Project : Password Manager GUI App
+
 

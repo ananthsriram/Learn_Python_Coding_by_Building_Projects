@@ -170,4 +170,11 @@
 ### [Day 29 - Intermediate - Building a Password Manager GUI App with Tkinter](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_29_Intermediate_Building_a_Password_Manager_GUI_App_with_Tkinter)
 - Project : Password Manager GUI App
 
+### [Day 30 - Intermediate - Errors, Exceptions and JSON Data - Improving the Password](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_30_Intermediate_Errors_Exceptions_and_JSON_Data_Improving_The_Password)
+- Exception Handling (try, except, else, finally)
+- Index Error Handling
+- Key Error Handling
+- Program : Exception Handling in the NATO Alphabet Project
+- Project : Password Manager GUI App - Store password in JSON format into file and read it to search for a website
+
 

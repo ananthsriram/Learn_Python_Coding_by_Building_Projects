@@ -180,4 +180,11 @@
 ### [Day 31 - Intermediate - Flash Card App Capstone Project](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_31_Intermediate_Flash_Card_App_Capstone_Project)
 - Project : Flash Card App (French to English)
 
+### [Day 32 - Intermediate - Send Email (smtplib) and Manage Dates (datetime)](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_32_Intermediate_Send_Email_smtplib_and_Manage_Dates_datetime)
+- smtplib Module
+- Send emails using SMTP
+- datetime Module
+- Program : Send Motivational Quotes on Mondays via Email
+- Project : Automated Birthday Wisher
+
 

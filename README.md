@@ -177,4 +177,7 @@
 - Program : Exception Handling in the NATO Alphabet Project
 - Project : Password Manager GUI App - Store password in JSON format into file and read it to search for a website
 
+### [Day 31 - Intermediate - Flash Card App Capstone Project](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_31_Intermediate_Flash_Card_App_Capstone_Project)
+- Project : Flash Card App (French to English)
+
 

@@ -187,4 +187,11 @@
 - Program : Send Motivational Quotes on Mondays via Email
 - Project : Automated Birthday Wisher
 
+### [Day 33 - Intermediate - API Endpoints, Parameters - ISS Overhead Notifier](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_33_Intermediate_API_Endpoints_Parameters_ISS_Overhead_Notifier)
+- Application Program Interface (API)
+- API Endpoints and Making API Calls (requests Module)
+- Working with Responses: HTTP Codes, Exceptions & JSON Data
+- Project : Kanye Quotes App using Kanye Rest API
+- Project : ISS Overhead Notifier
+
 

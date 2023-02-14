@@ -194,4 +194,7 @@
 - Project : Kanye Quotes App using Kanye Rest API
 - Project : ISS Overhead Notifier
 
+### [Day 34 - Intermediate - API Practice - Creating a GUI Quiz App](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_34_Intermediate_API_Practice_Creating_a_GUI_Quiz_App)
+- Project - GUI Quiz App
+
 

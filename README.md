@@ -202,4 +202,14 @@
 - API Keys to Authenticate
 - Environment Variables and Hiding API Keys
 
+### [Day 36 - Intermediate - Stock Trading News Alert Project](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_36_Intermediate_Stock_Trading_News_Alert_Project)
+- Project - Stock Trading News Alert
 
+### [Day 37 - Intermediate - Habit Tracking Project - API Post Requests & Headers](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_37_Intermediate_Habit_Tracking_Project_API_Post_Requests_and_Headers)
+- HTTP POST Requests
+- Advanced Authentication using HTTP Header
+- strftime from datetime Module
+- HTTP Put and Delete Requests
+- Project - Habit Tracker
+
+ 

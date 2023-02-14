@@ -197,4 +197,9 @@
 ### [Day 34 - Intermediate - API Practice - Creating a GUI Quiz App](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_34_Intermediate_API_Practice_Creating_a_GUI_Quiz_App)
 - Project - GUI Quiz App
 
+### [Day 35 - Intermediate - Keys, Authentication & Environment Variables - Send SMS](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_35_Intermediate_Keys_Authentication_Environment_Variables_Send_SMS)
+- API Authentication
+- API Keys to Authenticate
+- Environment Variables and Hiding API Keys
+
 

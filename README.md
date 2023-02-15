@@ -212,4 +212,13 @@
 - HTTP Put and Delete Requests
 - Project - Habit Tracker
 
- 
+### [Day 38 - Intermediate - Workout Tracking Using Google Sheets](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_38_Intermediate_Workout_Tracking_Using_Google_Sheets)
+- Project : Workout Tracking Using Google Sheets (using NLP API)
+
+### [Day 39 - Intermediate - Capstone Part 1 - Flight Deal Finder](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_39_Intermediate_Capstone_Part_1_Flight_Deal_Finder)
+- Project : Flight Deal Finder (look out for cheapest flight fare for a destination in next 6 months and send sms to user)
+
+### [Day 40 - Intermediate - Capstone Part 2 - Flight Club](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_40_Intermediate_Capstone_Part_2_Flight_Club)
+- Project : Flight Club (enroll multiple users and send emails when cheapest flight fares are available based on search criteria of each user)
+
+

@@ -221,4 +221,12 @@
 ### [Day 40 - Intermediate - Capstone Part 2 - Flight Club](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_40_Intermediate_Capstone_Part_2_Flight_Club)
 - Project : Flight Club (enroll multiple users and send emails when cheapest flight fares are available based on search criteria of each user)
 
+### [Day 41 - Intermediate - Web Scraping with BeautifulSoup](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_41_Intermediate_Web_Scraping_with_BeautifulSoup)
+- (Skipped Web Foundation Sessions from the Course - Day 41, Day 42, Day 43, Day 44)
+- Parsing HTML and Making Soup using BeautifulSoup Module
+- Finding and Selecting Particular Elements with BeautifulSoup
+- Program : Scraping a Live Website (Web Archive URL)
+- using robots.txt to find what is allowed and what is disallowed by Crawler
+- Program : 100 Movies that You Must Watch (Web Archive URL)
+
 

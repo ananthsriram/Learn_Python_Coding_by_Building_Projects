@@ -229,4 +229,10 @@
 - using robots.txt to find what is allowed and what is disallowed by Crawler
 - Program : 100 Movies that You Must Watch (Web Archive URL)
 
+### [Day 42 - Intermediate - Create a Spotify Playlist using the Musical Time Machine](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_42_Intermediate_Create_a_Spotify_Playlist_using_the_Musical_Time_Machine)
+- Project - Create a Spotify Playlist (By Webscraping and using APIs)
+
+### [Day 43 - Intermediate - Create an Automated Amazon Price Tracker](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_43_Intermediate_Create_an_Automated_Amazon_Price_Tracker)
+- Project - Create an Automated Amazon Price Tracker (By Webscraping and Sending email alert)
+
 

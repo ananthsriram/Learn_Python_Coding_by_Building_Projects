@@ -252,4 +252,15 @@
 ### [Day 47 - Intermediate - Internet Speed Twitter Complaint Bot](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_47_Intermediate_Internet_Speed_Twitter_Complaint_Bot)
 - Project : Internet Speed (speedtest.net) Twitter Complaint Bot
 
+### [Day 48 - Intermediate - Instagram Follower Bot](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_48_Intermediate_Instagram_Follower_Bot)
+- Project : Instagram Follower Bot
+
+### [Day 49 - Intermediate - Web Scraping Capstone - Data Entry Job Automation](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_49_Intermediate_Web_Scraping_Capstone_Data_Entry_Job_Automation)
+- Project : Data Entry Job Automatio
+
+### [Day 50 - Intermediate - Introduction to Web Development with Flask](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_50_Intermediate_Introduction_to_Web_Development_with_Flask)
+- Create First Web Server with Flask
+- __name__ and __main__ : Special attributes built into Python
+- Understanding Python Decorator Functions and the @ syntax 
+
 

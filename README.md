@@ -235,4 +235,21 @@
 ### [Day 43 - Intermediate - Create an Automated Amazon Price Tracker](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_43_Intermediate_Create_an_Automated_Amazon_Price_Tracker)
 - Project - Create an Automated Amazon Price Tracker (By Webscraping and Sending email alert)
 
+### [Day 44 - Intermediate - Selenium Webdriver Browser and Game Playing Bot](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_44_Intermediate_Selenium_Webdriver_Browser_and_Game_Playing_Bot)
+- Install and Setup Selenium
+- Find and Select Elements on a Website with Selenium
+- Program : Use Selenium to Scrape Website Data
+- Program : Find Number of English Articles in Wikipedia
+- Program : Automate Filling Out Forms and Clicking Buttons With Selenium
+- Project : Cookie Clicker
+
+### [Day 45 - Intermediate - Automate Job Applications on LinkedIn](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_45_Intermediate_Automating_Job_Applications_on_LinkedIn)
+- Project : Automate Job Applications on LinkedIn
+
+### [Day 46 - Intermediate - Auto Tinder Swiping Bot](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_46_Intermediate_Auto_Tinder_Swiping_Bot)
+- Project : Auto Tinder Swiping Bot
+
+### [Day 47 - Intermediate - Internet Speed Twitter Complaint Bot](https://github.com/ananthsriram/100_days_of_python_coding/tree/main/Day_47_Intermediate_Internet_Speed_Twitter_Complaint_Bot)
+- Project : Internet Speed (speedtest.net) Twitter Complaint Bot
+
 
